@@ -20,7 +20,7 @@
 #include <opencv2/features2d/features2d.hpp>
 
 //fhis
-#include "rgbSegmentation.h"
+#include "rgbsegmentation.h"
 #include "edgedetector.h"
 
 static const double thresh = 0.04;

@@ -9,7 +9,7 @@
  *
  */
 
-#include "rgbSegmentation.h"
+#include "rgbsegmentation.h"
 #include <fstream>
 #include <sstream>
 #include <time.h>
